@@ -1,0 +1,1 @@
+tm.os.Log("Hello from Typescript!");
