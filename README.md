@@ -6,6 +6,12 @@ To get started run
 npx degit spidunno/trailmakers-scaffolding my-trailmakers-project
 ```
 
+Install dependencies with yarn/npm/bun:
+
+```bash
+npm install
+```
+
 To build your project:
 
 ```bash
