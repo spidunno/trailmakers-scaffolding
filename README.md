@@ -3,7 +3,7 @@
 To get started run
 
 ```bash
-npx degit spidunno/trailmakers-scaffolding my-trailmakers-project
+npx degit spidunno/trailmakers-scaffolding my-trailmakers-project && cd my-trailmakers-project
 ```
 
 Install dependencies with yarn/npm/bun:
