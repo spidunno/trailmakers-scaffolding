@@ -1,15 +1,19 @@
-# my-trailmakers-project
+# Trailmakers Typescript Scaffolding Project
 
-To install dependencies:
-
-```bash
-bun install
-```
-
-To run:
+To get started run
 
 ```bash
-bun run index.ts
+npx degit spidunno/trailmakers-scaffolding my-trailmakers-project
 ```
 
-This project was created using `bun init` in bun v1.1.5. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
+To build your project:
+
+```bash
+npm run build
+```
+
+To watch for file changes and re-build:
+
+```bash
+npm run watch
+```

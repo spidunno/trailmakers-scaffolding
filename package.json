@@ -6,6 +6,10 @@
     "trailmakers": "^1.0.4",
     "typescript-to-lua": "^1.25.1"
   },
+	"scripts": {
+		"build": "tstl",
+		"watch": "tstl --watch"
+	},
   "peerDependencies": {
     "typescript": "^5.0.0"
   }
