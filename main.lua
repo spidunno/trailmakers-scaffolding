@@ -22,7 +22,7 @@ end
 ____modules = {
 ["src.main"] = function(...) 
 --[[ Generated with https://github.com/TypeScriptToLua/TypeScriptToLua ]]
-console.log("Hello via Bun!")
+tm.os.Log("Hello from Typescript!")
  end,
 }
 return require("src.main", ...)
