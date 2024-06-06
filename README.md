@@ -1,5 +1,7 @@
 # Trailmakers Typescript Scaffolding Project
 
+### Make sure to look at the tsconfig.json, if you have more than one typescript file there are two lines you need to uncomment there!
+
 To get started run
 
 ```bash

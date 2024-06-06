@@ -10,9 +10,12 @@
   "tstl": {
 		"buildMode": "default",
     "luaTarget": "5.2",
-		"luaBundle": "./main.lua",
-		"luaBundleEntry": "./src/main.ts",
-		"luaLibImport": "require-minimal",
+
+    // As soon as you have more than one typescript file, uncomment these lines.
+		// "luaBundle": "./main.lua",
+		// "luaBundleEntry": "./src/main.ts",
+		
+    "luaLibImport": "require-minimal",
 		"noImplicitSelf": true,
   },
 }
