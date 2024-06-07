@@ -15,13 +15,13 @@ Install dependencies with yarn/npm/bun:
 npm install
 ```
 
-To build your project:
+Edit the `src/main.ts` file and build your project with:
 
 ```bash
 npm run build
 ```
 
-To watch for file changes and re-build:
+To watch for file changes and automatically re-build:
 
 ```bash
 npm run watch
