@@ -3,9 +3,14 @@
 To get started run:
 
 ```bash
-cd "<YOUR TRAILMAKERS MODS DIRECTORY>" # Replace `<YOUR TRAILMAKERS MODS DIRECTORY>` with the actual directory to your Trailmakers mods folder.
-npx degit spidunno/trailmakers-scaffolding "my-trailmakers-project" # Feel free to change `my-trailmakers-project` to your desired project name here
-cd "my-trailmakers-project"                                         # and here
+# Replace `<YOUR TRAILMAKERS MODS DIRECTORY>` with the actual directory to your Trailmakers mods folder.
+cd "<YOUR TRAILMAKERS MODS DIRECTORY>"
+
+# Feel free to change `my-trailmakers-project` to your desired project name here
+npx degit spidunno/trailmakers-scaffolding "my-trailmakers-project"
+
+# and here
+cd "my-trailmakers-project"
 ```
 
 Install dependencies with yarn/npm/bun:
