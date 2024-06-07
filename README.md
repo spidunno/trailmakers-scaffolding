@@ -2,11 +2,12 @@
 
 ### Make sure to look at the tsconfig.json, if you have more than one typescript file there are two lines you need to uncomment there!
 
-To get started run
+To get started run:
 
 ```bash
-npx degit spidunno/trailmakers-scaffolding my-trailmakers-project
-cd my-trailmakers-project
+cd "<YOUR TRAILMAKERS MODS DIRECTORY>" # Replace `<YOUR TRAILMAKERS MODS DIRECTORY>` with the actual directory to your Trailmakers mods folder.
+npx degit spidunno/trailmakers-scaffolding "my-trailmakers-project" # Feel free to change `my-trailmakers-project` to your desired project name here
+cd "my-trailmakers-project"                                         # and here
 ```
 
 Install dependencies with yarn/npm/bun:
