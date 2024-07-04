@@ -4,13 +4,11 @@
   "type": "module",
   "devDependencies": {
     "trailmakers": "^1.0.5",
-    "typescript-to-lua": "^1.25.1"
+    "typescript-to-lua": "1.26.0",
+    "typescript": "^5.5.2"
   },
   "scripts": {
     "build": "tstl",
     "watch": "tstl --watch"
-  },
-  "peerDependencies": {
-    "typescript": "^5.0.0"
   }
 }
