@@ -1,8 +1,3 @@
-// TypescriptToLua has a bug, if you don't import or export anything in this main file, everything runs twice.
-// I have reported it and they will fix it at some point, when that happens this line will be removed.
-// Until then, you can remove it if/when you import any other files.
-import { TEST_CONSTANT } from "./util";
-
 /*
 	In the Trailmakers modding API, the update function is
 	a global function you define that runs every tick.
