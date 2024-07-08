@@ -3,7 +3,7 @@
   "compilerOptions": {
     "target": "ESNext",
     "lib": ["ESNext"],
-    "moduleResolution": "Node",
+    "moduleResolution": "Bundler",
     "types": ["trailmakers"],
     "strict": true,
   },
