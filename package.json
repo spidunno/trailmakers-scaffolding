@@ -1,5 +1,5 @@
 {
-  "name": "my-trailmakers-project",
+  "name": "{{ tmplr.project_name }}",
   "module": "src/main.ts",
   "type": "module",
   "devDependencies": {

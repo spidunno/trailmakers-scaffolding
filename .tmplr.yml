@@ -1,0 +1,8 @@
+steps:
+  - read: project_name
+    prompt: Project name?
+    default:
+      "my_trailmakers_project"
+
+  - update: package.json
+  - remove: .tmplr.yml
