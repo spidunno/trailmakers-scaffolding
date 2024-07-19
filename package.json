@@ -3,7 +3,7 @@
   "module": "src/main.ts",
   "type": "module",
   "devDependencies": {
-    "trailmakers": "^1.0.18",
+    "trailmakers": "^1.0.19",
     "typescript-to-lua": "1.26.0",
     "typescript": "^5.5.2"
   },
