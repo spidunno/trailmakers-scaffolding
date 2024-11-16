@@ -33,4 +33,4 @@ npm run watch
 ```
 
 ## Uploading
-Copy the generated `main.lua` as well as the `data_static` folder into another folder and upload as usual. I might make a script that automatically does everything needed to prepare your mod to be uploaded later.
+Copy the generated `main.lua` as well as the `data_static` folder into another folder (I also recommend minifying `main.lua`) and upload as usual. I might make a script that automatically does everything needed to prepare your mod to be uploaded later.
