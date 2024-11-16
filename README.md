@@ -11,7 +11,7 @@ cd "<YOUR TRAILMAKERS MODS DIRECTORY>"
 mkdir "my-trailmakers-project"
 cd "my-trailmakers-project"
 
-npx tmplr spidunno/trailmakers-scaffolding
+npx tmplr trailtypes/trailmakers-scaffolding
 ```
 
 Install dependencies with yarn/npm/bun:
