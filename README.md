@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/0f6d97ee-b863-433a-aa58-db8621cdef8e" alt="TrailTypes"/>
+</p>
+
 # Trailmakers Typescript Scaffolding Project
 
 To get started run:
